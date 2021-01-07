@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string-array name="sehirler" >
+        <item>Şuanki Şehir</item>
+        <item> İstanbul </item>
+        <item> Ankara </item>
+        <item> İzmir </item>
+        <item> Bursa </item>
+        <item> Balıkesir </item>
+        <item> Çanakkale </item>
+        <item> Antalya </item>
+        <item> Kars </item>
+        <item> Şanlıurfa </item>
+        <item> Adana </item>
+        <item> Edirne </item>
+        <item> Tokyo </item>
+
+    </string-array>
+
+
+
+</resources>
